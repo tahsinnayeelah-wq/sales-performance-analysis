@@ -1,1 +1,69 @@
-From the analysis of the revenues, the customers’ behavior, the products’ performance, and the regional patterns, this sales performance study aims to evaluate the company’s performance for the year based on the revenues collected. From the analysis, it was clear that the company’s prices and products were appropriate for the market, based on the revenues collected, which were also backed by the customers’ orders and the average expenditure. Sales varied throughout the months, reflecting the seasonal patterns and the effects of promotions or the change of heart among the customers. Though the slow sales provide opportunities for better preparation and marketing, the high sales periods reflect the success of the marketing strategies. Products that performed well are also essential for the business because they formed a small part of the revenues, while the underperforming ones require evaluation for better performance. Furthermore, the performance of different regions also differs, with some regions performing better than others. Although the underperforming regions provide opportunities for growth through better marketing and distribution strategies, the better-performing regions have shown better market engagement. Overall, the business is financially healthy and has tremendous scope for growth, which can be achieved by better performance through better products, managing seasonal fluctuations, and strengthening the underperforming regions.
+# 📊 Sales Analysis Project
+
+## Overview
+
+This repository contains a complete sales analysis project performed using Python in a Jupyter Notebook. The project analyzes business sales data and presents insights through visualizations and a one-page business summary written in non-technical language.
+
+The goal of this project is to understand revenue trends, regional performance, and product performance using clear and simple visual analysis.
+
+---
+
+## 📁 Repository Contents
+
+### 1. Sales Analysis Notebook
+
+- File: sales_performance_analysis.ipynb
+- Contains data analysis and visualization code
+- Generates all charts and summary insights
+
+---
+
+## 📊 Visualizations Included
+
+### 1. Monthly Revenue Trend (Line Chart)
+- Displays revenue performance across 12 months.
+- Helps identify growth patterns and revenue fluctuations.
+- Shows peak and low-performing months.
+
+### 2. Top 10 Products by Revenue (Bar Chart)
+- Displays the highest revenue-generating products.
+- Compares product performance visually.
+- Shows revenue distribution among top products.
+
+### 3. Region vs Revenue (Heatmap)
+- Shows revenue contribution across different regions.
+- Highlights strong and weak performing regions.
+- Provides quick visual comparison.
+
+### 4. Combined Sales Dashboard
+- A single dashboard-style image combining:
+    - Monthly Revenue Line Chart
+    - Top 10 Products Bar Chart
+    - Region Revenue Heatmap
+- Designed for executive-level overview and presentation.
+
+---
+
+## 📄 Business Summary
+
+The repository also includes a one-page business summary written in non-technical language.
+
+The summary explains:
+- Overall monthly revenue performance
+- Regional contribution comparison
+- Top product performance
+- General business performance overview
+
+This summary is suitable for academic submission or management review.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
